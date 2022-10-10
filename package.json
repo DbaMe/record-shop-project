@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Hammed-Waheed/record-shop-project#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.1",
-    "lowdb": "^3.0.0"
+    "lowdb": "^3.0.0",
+    "morgan": "^1.10.0"
   }
 }

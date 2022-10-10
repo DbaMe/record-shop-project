@@ -1,19 +1,18 @@
 {
-  "records": [
-    {
-      "title": "Love",
-      "age": "24",
-      "name": "Banana",
-      "id": "1664581899688"
-    },
-    {
-      "title": "madona",
-      "age": "23",
-      "key": "old",
-      "id": "1664582058517"
-    },
-    {
-      "id": "1664582227961"
-    }
-  ]
+	"records": [
+		{
+			"title": "fly wind",
+			"artist": "Tbox",
+			"year": 1983,
+			"price": 200,
+			"image": "https://images.unsplash.com/photo-1593698054590-a5b3a19565a3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8c2luZ2VyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"title": "rumba tumba",
+			"artist": "fine girl",
+			"year": 1990,
+			"price": 350,
+			"image": "https://images.unsplash.com/photo-1468141589425-dcddef77ddad?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fHNpbmdlcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+		}
+	]
 }
